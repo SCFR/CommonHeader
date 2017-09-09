@@ -13,7 +13,6 @@ button {
     outline:none;
     cursor:pointer;
     font-size:18px;
-    color:white;
     z-index:11;
     position:relative;
 
@@ -27,6 +26,7 @@ button {
 
     a {
         text-decoration: none;
+        color:white;
         &:hover {
             color:white;
         }
